@@ -30,6 +30,39 @@ Para manter o aplicativo leve, bonito e altamente responsivo, ele foi construíd
 
 ---
 
+## 🚀 Como Rodar o Projeto Localmente
+
+Se você quiser baixar este projeto e rodá-lo no seu computador (ou atualizar no seu GitHub), o processo é bem simples. Você vai precisar do [Node.js](https://nodejs.org/) instalado na sua máquina.
+
+### 1. Clonar ou Baixar o Repositório
+Baixe os arquivos do projeto para a sua máquina ou clone o repositório usando o Git:
+```bash
+git clone <url-do-seu-repositorio>
+cd <nome-da-pasta-do-projeto>
+```
+
+### 2. Instalar as Dependências
+Abra o seu terminal na pasta raiz do projeto e instale os pacotes necessários:
+```bash
+npm install
+```
+
+### 3. Executar em Modo de Desenvolvimento
+Para abrir o servidor local de testes e ver as atualizações em tempo real, execute:
+```bash
+npm run dev
+```
+Após o comando, o terminal exibirá um endereço local (geralmente `http://localhost:3000` ou `http://localhost:5173`). Basta abrir esse link no seu navegador para usar!
+
+### 4. Gerar Versão Final (Build)
+Se quiser compilar o aplicativo para colocar no ar (no GitHub Pages, por exemplo):
+```bash
+npm run build
+```
+Os arquivos prontos e otimizados serão gerados dentro da pasta `dist/`.
+
+---
+
 ## 🎯 Configurações Pessoais de Estudo
 
 Todo o progresso é salvo diretamente no navegador de forma automática. Assim, quando volto a estudar, continuo exatamente de onde parei, sem complicação ou necessidade de login.
