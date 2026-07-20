@@ -1,0 +1,146 @@
+[
+  {
+    "id": "f3_1",
+    "palavra": "Accomplish",
+    "pronuncia": "â-cóm-plish",
+    "traducao": "Realizar, conquistar, cumprir",
+    "frase_exemplo": "We can accomplish anything together.",
+    "traducao_frase": "Nós podemos realizar qualquer coisa juntos.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f3_2",
+    "palavra": "Bewildered",
+    "pronuncia": "bi-uíl-dârd",
+    "traducao": "Atordoado, perplexo, confuso",
+    "frase_exemplo": "She was bewildered by the complex instructions.",
+    "traducao_frase": "Ela ficou perplexa com as instruções complexas.",
+    "categoria": "Adjetivo"
+  },
+  {
+    "id": "f3_3",
+    "palavra": "Comprehensive",
+    "pronuncia": "cóm-pri-rén-siv",
+    "traducao": "Abrangente, completo, detalhado",
+    "frase_exemplo": "This is a comprehensive English study guide.",
+    "traducao_frase": "Este é um guia de estudos de inglês abrangente.",
+    "categoria": "Adjetivo"
+  },
+  {
+    "id": "f3_4",
+    "palavra": "Determine",
+    "pronuncia": "di-târ-min (E mudo)",
+    "traducao": "Determinar, resolver, decidir",
+    "frase_exemplo": "Your efforts determine your success.",
+    "traducao_frase": "Seus esforços determinam seu sucesso.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f3_5",
+    "palavra": "Endeavor",
+    "pronuncia": "en-dé-vôr",
+    "traducao": "Esforço, empenho, esforçar-se",
+    "frase_exemplo": "We wish you luck in your future endeavors.",
+    "traducao_frase": "Desejamos sorte em seus futuros empenhos.",
+    "categoria": "Substantivo"
+  },
+  {
+    "id": "f3_6",
+    "palavra": "Flawless",
+    "pronuncia": "fló-lés",
+    "traducao": "Perfeito, impecável, sem falhas",
+    "frase_exemplo": "Her English pronunciation is flawless.",
+    "traducao_frase": "A pronúncia de inglês dela é impecável.",
+    "categoria": "Adjetivo"
+  },
+  {
+    "id": "f3_7",
+    "palavra": "Hence",
+    "pronuncia": "héns (E mudo)",
+    "traducao": "Portanto, consequentemente, por isso",
+    "frase_exemplo": "The path is clear, hence we must move forward.",
+    "traducao_frase": "O caminho está livre, portanto devemos seguir em frente.",
+    "categoria": "Partícula"
+  },
+  {
+    "id": "f3_8",
+    "palavra": "Inevitable",
+    "pronuncia": "i-né-vi-tâ-bôl",
+    "traducao": "Inevitável",
+    "frase_exemplo": "Change is inevitable.",
+    "traducao_frase": "A mudança é inevitável.",
+    "categoria": "Adjetivo"
+  },
+  {
+    "id": "f3_9",
+    "palavra": "Jeopardize",
+    "pronuncia": "djé-pôr-dáiz (E mudo)",
+    "traducao": "Prejudicar, colocar em risco",
+    "frase_exemplo": "Do not jeopardize your health.",
+    "traducao_frase": "Não coloque em risco a sua saúde.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f3_10",
+    "palavra": "Nurture",
+    "pronuncia": "nâr-tchâr (E mudo)",
+    "traducao": "Nutrir, cultivar, educar",
+    "frase_exemplo": "It's important to nurture your skills daily.",
+    "traducao_frase": "É importante cultivar suas habilidades diariamente.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f3_11",
+    "palavra": "Nevertheless",
+    "pronuncia": "né-vâr-dâ-lés",
+    "traducao": "Mesmo assim, contudo, todavia",
+    "frase_exemplo": "It was difficult; nevertheless, we finished.",
+    "traducao_frase": "Foi difícil; contudo, nós terminamos.",
+    "categoria": "Partícula"
+  },
+  {
+    "id": "f3_12",
+    "palavra": "Overcome",
+    "pronuncia": "ôu-vâr-câm (E mudo)",
+    "traducao": "Superar, vencer, dominar",
+    "frase_exemplo": "You will overcome your fear of speaking.",
+    "traducao_frase": "Você superará seu medo de falar.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f3_13",
+    "palavra": "Peculiar",
+    "pronuncia": "pi-quiú-li-âr",
+    "traducao": "Peculiar, estranho, singular",
+    "frase_exemplo": "He has a peculiar accent.",
+    "traducao_frase": "Ele tem um sotaque peculiar.",
+    "categoria": "Adjetivo"
+  },
+  {
+    "id": "f3_14",
+    "palavra": "Relentless",
+    "pronuncia": "ri-lént-lés",
+    "traducao": "Implacável, persistente, incansável",
+    "frase_exemplo": "Study with relentless dedication.",
+    "traducao_frase": "Estude com incansável dedicação.",
+    "categoria": "Adjetivo"
+  },
+  {
+    "id": "f3_15",
+    "palavra": "Simultaneously",
+    "pronuncia": "sai-môl-têi-ni-âs-li",
+    "traducao": "Simultaneamente",
+    "frase_exemplo": "You can listen and read simultaneously.",
+    "traducao_frase": "Você pode ouvir e ler simultaneamente.",
+    "categoria": "Partícula"
+  },
+  {
+    "id": "f3_rule_1",
+    "palavra": "O som do 'Schwa' (o som mais comum do inglês)",
+    "pronuncia": "Um som neutro, curto, parecido com um 'â' fraco e preguiçoso",
+    "traducao": "Aparece em quase qualquer vogal não tônica. Símbolo fonético /ə/.",
+    "frase_exemplo": "About [âbáut], Support [sâpórt], Family [fémâli]",
+    "traducao_frase": "A vogal átona perde sua cor e vira um som relaxado.",
+    "categoria": "Apêndice de Pronúncia"
+  }
+]

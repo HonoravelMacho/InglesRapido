@@ -1,0 +1,929 @@
+[
+  {
+    "id": "f1_1",
+    "palavra": "The",
+    "pronuncia": "dâ (ou 'di' antes de vogais)",
+    "traducao": "O, a, os, as",
+    "frase_exemplo": "The book is on the table.",
+    "traducao_frase": "O livro está em cima da mesa.",
+    "categoria": "Partícula"
+  },
+  {
+    "id": "f1_2",
+    "palavra": "Of",
+    "pronuncia": "âv",
+    "traducao": "De, do, da",
+    "frase_exemplo": "A cup of coffee.",
+    "traducao_frase": "Uma xícara de café.",
+    "categoria": "Partícula"
+  },
+  {
+    "id": "f1_3",
+    "palavra": "To",
+    "pronuncia": "tú",
+    "traducao": "Para, a (indica movimento ou infinitivo)",
+    "frase_exemplo": "I want to study English.",
+    "traducao_frase": "Eu quero estudar inglês.",
+    "categoria": "Partícula"
+  },
+  {
+    "id": "f1_4",
+    "palavra": "And",
+    "pronuncia": "énd",
+    "traducao": "E",
+    "frase_exemplo": "You and me.",
+    "traducao_frase": "Você e eu.",
+    "categoria": "Partícula"
+  },
+  {
+    "id": "f1_5",
+    "palavra": "A / An",
+    "pronuncia": "êi / én",
+    "traducao": "Um, uma",
+    "frase_exemplo": "A dog and an apple.",
+    "traducao_frase": "Um cachorro e uma maçã.",
+    "categoria": "Partícula"
+  },
+  {
+    "id": "f1_6",
+    "palavra": "In",
+    "pronuncia": "ín",
+    "traducao": "Em, dentro de",
+    "frase_exemplo": "The key is in the bag.",
+    "traducao_frase": "A chave está dentro da bolsa.",
+    "categoria": "Partícula"
+  },
+  {
+    "id": "f1_7",
+    "palavra": "Is",
+    "pronuncia": "íz",
+    "traducao": "É, está",
+    "frase_exemplo": "He is my friend.",
+    "traducao_frase": "Ele é meu amigo.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f1_8",
+    "palavra": "You",
+    "pronuncia": "iú",
+    "traducao": "Você, vocês",
+    "frase_exemplo": "I love you.",
+    "traducao_frase": "Eu amo você.",
+    "categoria": "Palavra"
+  },
+  {
+    "id": "f1_9",
+    "palavra": "That",
+    "pronuncia": "dét",
+    "traducao": "Aquele, aquela, aquilo, que",
+    "frase_exemplo": "That is my car.",
+    "traducao_frase": "Aquele é o meu carro.",
+    "categoria": "Palavra"
+  },
+  {
+    "id": "f1_10",
+    "palavra": "It",
+    "pronuncia": "ít",
+    "traducao": "Isto, isso (pronome neutro para coisas/animais)",
+    "frase_exemplo": "It is raining.",
+    "traducao_frase": "Está chovendo.",
+    "categoria": "Palavra"
+  },
+  {
+    "id": "f1_11",
+    "palavra": "He",
+    "pronuncia": "hí",
+    "traducao": "Ele",
+    "frase_exemplo": "He works here.",
+    "traducao_frase": "Ele trabalha aqui.",
+    "categoria": "Palavra"
+  },
+  {
+    "id": "f1_12",
+    "palavra": "Was",
+    "pronuncia": "uóz",
+    "traducao": "Era, estava (passado de am/is)",
+    "frase_exemplo": "She was happy yesterday.",
+    "traducao_frase": "Ela estava feliz ontem.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f1_13",
+    "palavra": "For",
+    "pronuncia": "fór",
+    "traducao": "Para, por, durante",
+    "frase_exemplo": "This gift is for you.",
+    "traducao_frase": "Este presente é para você.",
+    "categoria": "Partícula"
+  },
+  {
+    "id": "f1_14",
+    "palavra": "On",
+    "pronuncia": "ón",
+    "traducao": "Em, sobre, em cima de (superfície)",
+    "frase_exemplo": "The laptop is on the desk.",
+    "traducao_frase": "O notebook está sobre a mesa.",
+    "categoria": "Partícula"
+  },
+  {
+    "id": "f1_15",
+    "palavra": "Are",
+    "pronuncia": "ár",
+    "traducao": "São, estão, somos, estamos",
+    "frase_exemplo": "We are learning fast.",
+    "traducao_frase": "Nós estamos aprendendo rápido.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f1_16",
+    "palavra": "As",
+    "pronuncia": "éz",
+    "traducao": "Como, assim como",
+    "frase_exemplo": "She works as a teacher.",
+    "traducao_frase": "Ela trabalha como professora.",
+    "categoria": "Partícula"
+  },
+  {
+    "id": "f1_17",
+    "palavra": "With",
+    "pronuncia": "uíd (com TH suave soprado)",
+    "traducao": "Com",
+    "frase_exemplo": "Come with me.",
+    "traducao_frase": "Venha comigo.",
+    "categoria": "Partícula"
+  },
+  {
+    "id": "f1_18",
+    "palavra": "His",
+    "pronuncia": "híz",
+    "traducao": "Dele, seu (masculino)",
+    "frase_exemplo": "This is his house.",
+    "traducao_frase": "Esta é a casa dele.",
+    "categoria": "Palavra"
+  },
+  {
+    "id": "f1_19",
+    "palavra": "They",
+    "pronuncia": "dei",
+    "traducao": "Eles, elas",
+    "frase_exemplo": "They are studying.",
+    "traducao_frase": "Eles estão estudando.",
+    "categoria": "Palavra"
+  },
+  {
+    "id": "f1_20",
+    "palavra": "I",
+    "pronuncia": "ái",
+    "traducao": "Eu",
+    "frase_exemplo": "I am a developer.",
+    "traducao_frase": "Eu sou um desenvolvedor.",
+    "categoria": "Palavra"
+  },
+  {
+    "id": "f1_21",
+    "palavra": "At",
+    "pronuncia": "ét",
+    "traducao": "Em, no, na (local específico)",
+    "frase_exemplo": "I am at school.",
+    "traducao_frase": "Eu estou na escola.",
+    "categoria": "Partícula"
+  },
+  {
+    "id": "f1_22",
+    "palavra": "Be",
+    "pronuncia": "bí",
+    "traducao": "Ser, estar",
+    "frase_exemplo": "I want to be free.",
+    "traducao_frase": "Eu quero ser livre.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f1_23",
+    "palavra": "This",
+    "pronuncia": "dís (com TH vibrado)",
+    "traducao": "Este, esta, isto",
+    "frase_exemplo": "This is my friend.",
+    "traducao_frase": "Este é meu amigo.",
+    "categoria": "Palavra"
+  },
+  {
+    "id": "f1_24",
+    "palavra": "Have",
+    "pronuncia": "hév",
+    "traducao": "Ter, possuir",
+    "frase_exemplo": "I have a dream.",
+    "traducao_frase": "Eu tenho um sonho.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f1_25",
+    "palavra": "From",
+    "pronuncia": "fróm",
+    "traducao": "De, a partir de (origem)",
+    "frase_exemplo": "I am from Brazil.",
+    "traducao_frase": "Eu sou do Brasil.",
+    "categoria": "Partícula"
+  },
+  {
+    "id": "f1_26",
+    "palavra": "But",
+    "pronuncia": "bât",
+    "traducao": "Mas, porém",
+    "frase_exemplo": "It's cold but sunny.",
+    "traducao_frase": "Está frio, mas ensolarado.",
+    "categoria": "Partícula"
+  },
+  {
+    "id": "f1_27",
+    "palavra": "What",
+    "pronuncia": "uót",
+    "traducao": "O que, qual",
+    "frase_exemplo": "What is your name?",
+    "traducao_frase": "Qual é o seu nome?",
+    "categoria": "Palavra"
+  },
+  {
+    "id": "f1_28",
+    "palavra": "Some",
+    "pronuncia": "sâm (E mudo)",
+    "traducao": "Algum, alguma, alguns, um pouco de",
+    "frase_exemplo": "I need some water.",
+    "traducao_frase": "Eu preciso de um pouco de água.",
+    "categoria": "Adjetivo"
+  },
+  {
+    "id": "f1_29",
+    "palavra": "We",
+    "pronuncia": "uí",
+    "traducao": "Nós",
+    "frase_exemplo": "We are a team.",
+    "traducao_frase": "Nós somos um time.",
+    "categoria": "Palavra"
+  },
+  {
+    "id": "f1_30",
+    "palavra": "Can",
+    "pronuncia": "kén",
+    "traducao": "Poder, conseguir (habilidade/permissão)",
+    "frase_exemplo": "Can you help me?",
+    "traducao_frase": "Você pode me ajudar?",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f1_31",
+    "palavra": "Out",
+    "pronuncia": "áut",
+    "traducao": "Fora, para fora",
+    "frase_exemplo": "Get out of here.",
+    "traducao_frase": "Saia daqui.",
+    "categoria": "Partícula"
+  },
+  {
+    "id": "f1_32",
+    "palavra": "Other",
+    "pronuncia": "ádâr",
+    "traducao": "Outro, outra",
+    "frase_exemplo": "The other side.",
+    "traducao_frase": "O outro lado.",
+    "categoria": "Adjetivo"
+  },
+  {
+    "id": "f1_33",
+    "palavra": "Were",
+    "pronuncia": "uêr",
+    "traducao": "Eram, estavam (passado de are)",
+    "frase_exemplo": "They were late.",
+    "traducao_frase": "Eles estavam atrasados.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f1_34",
+    "palavra": "All",
+    "pronuncia": "ól",
+    "traducao": "Tudo, todos, todas",
+    "frase_exemplo": "All my love.",
+    "traducao_frase": "Todo o meu amor.",
+    "categoria": "Adjetivo"
+  },
+  {
+    "id": "f1_35",
+    "palavra": "There",
+    "pronuncia": "dêr",
+    "traducao": "Lá, ali",
+    "frase_exemplo": "Go there now.",
+    "traducao_frase": "Vá lá agora.",
+    "categoria": "Partícula"
+  },
+  {
+    "id": "f1_36",
+    "palavra": "When",
+    "pronuncia": "uén",
+    "traducao": "Quando",
+    "frase_exemplo": "When is your birthday?",
+    "traducao_frase": "Quando é o seu aniversário?",
+    "categoria": "Palavra"
+  },
+  {
+    "id": "f1_37",
+    "palavra": "Up",
+    "pronuncia": "âp",
+    "traducao": "Para cima, cima",
+    "frase_exemplo": "Look up.",
+    "traducao_frase": "Olhe para cima.",
+    "categoria": "Partícula"
+  },
+  {
+    "id": "f1_38",
+    "palavra": "Use",
+    "pronuncia": "iúz (E mudo)",
+    "traducao": "Usar, uso",
+    "frase_exemplo": "I use this tool.",
+    "traducao_frase": "Eu uso esta ferramenta.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f1_39",
+    "palavra": "Your",
+    "pronuncia": "iór",
+    "traducao": "Seu, sua, seus, suas (de você)",
+    "frase_exemplo": "What is your goal?",
+    "traducao_frase": "Qual é a sua meta?",
+    "categoria": "Palavra"
+  },
+  {
+    "id": "f1_40",
+    "palavra": "How",
+    "pronuncia": "ráu",
+    "traducao": "Como, de que maneira",
+    "frase_exemplo": "How are you?",
+    "traducao_frase": "Como vai você?",
+    "categoria": "Palavra"
+  },
+  {
+    "id": "f1_41",
+    "palavra": "Said",
+    "pronuncia": "séd",
+    "traducao": "Disse (passado de say)",
+    "frase_exemplo": "She said yes.",
+    "traducao_frase": "Ela disse sim.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f1_42",
+    "palavra": "An",
+    "pronuncia": "én",
+    "traducao": "Um, uma (usado antes de som de vogal)",
+    "frase_exemplo": "An hour ago.",
+    "traducao_frase": "Uma hora atrás.",
+    "categoria": "Partícula"
+  },
+  {
+    "id": "f1_43",
+    "palavra": "Each",
+    "pronuncia": "ítch",
+    "traducao": "Cada",
+    "frase_exemplo": "Each person is unique.",
+    "traducao_frase": "Cada pessoa é única.",
+    "categoria": "Adjetivo"
+  },
+  {
+    "id": "f1_44",
+    "palavra": "She",
+    "pronuncia": "shí",
+    "traducao": "Ela",
+    "frase_exemplo": "She is a doctor.",
+    "traducao_frase": "Ela é médica.",
+    "categoria": "Palavra"
+  },
+  {
+    "id": "f1_45",
+    "palavra": "Which",
+    "pronuncia": "uítch",
+    "traducao": "Qual, quais (com opções limitadas)",
+    "frase_exemplo": "Which color do you prefer?",
+    "traducao_frase": "Qual cor você prefere?",
+    "categoria": "Palavra"
+  },
+  {
+    "id": "f1_46",
+    "palavra": "Do",
+    "pronuncia": "dú",
+    "traducao": "Fazer (ação geral / verbo auxiliar)",
+    "frase_exemplo": "Do your best.",
+    "traducao_frase": "Faça o seu melhor.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f1_47",
+    "palavra": "Their",
+    "pronuncia": "dêr",
+    "traducao": "Deles, delas, seus, suas",
+    "frase_exemplo": "This is their car.",
+    "traducao_frase": "Este é o carro deles.",
+    "categoria": "Palavra"
+  },
+  {
+    "id": "f1_48",
+    "palavra": "Time",
+    "pronuncia": "táim (E mudo)",
+    "traducao": "Tempo, hora, vez",
+    "frase_exemplo": "I don't have time.",
+    "traducao_frase": "Eu não tenho tempo.",
+    "categoria": "Substantivo"
+  },
+  {
+    "id": "f1_49",
+    "palavra": "If",
+    "pronuncia": "íf",
+    "traducao": "Se",
+    "frase_exemplo": "If you study, you learn.",
+    "traducao_frase": "Se você estudar, você aprende.",
+    "categoria": "Partícula"
+  },
+  {
+    "id": "f1_50",
+    "palavra": "Will",
+    "pronuncia": "uíl",
+    "traducao": "Verbo auxiliar para o futuro; vontade",
+    "frase_exemplo": "I will go tomorrow.",
+    "traducao_frase": "Eu irei amanhã.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f1_51",
+    "palavra": "Way",
+    "pronuncia": "uêi",
+    "traducao": "Caminho, maneira, jeito",
+    "frase_exemplo": "This is the way.",
+    "traducao_frase": "Este é o caminho.",
+    "categoria": "Substantivo"
+  },
+  {
+    "id": "f1_52",
+    "palavra": "About",
+    "pronuncia": "âbáut",
+    "traducao": "Sobre, a respeito de, quase",
+    "frase_exemplo": "Tell me about you.",
+    "traducao_frase": "Fale-me sobre você.",
+    "categoria": "Partícula"
+  },
+  {
+    "id": "f1_53",
+    "palavra": "Many",
+    "pronuncia": "méni",
+    "traducao": "Muitos, muitas",
+    "frase_exemplo": "I have many friends.",
+    "traducao_frase": "Eu tenho muitos amigos.",
+    "categoria": "Adjetivo"
+  },
+  {
+    "id": "f1_54",
+    "palavra": "Then",
+    "pronuncia": "dén",
+    "traducao": "Então, depois",
+    "frase_exemplo": "First study, then play.",
+    "traducao_frase": "Primeiro estude, depois jogue.",
+    "categoria": "Partícula"
+  },
+  {
+    "id": "f1_55",
+    "palavra": "Them",
+    "pronuncia": "dém",
+    "traducao": "Eles, elas (objeto de frase)",
+    "frase_exemplo": "I saw them.",
+    "traducao_frase": "Eu vi eles (ou os vi).",
+    "categoria": "Palavra"
+  },
+  {
+    "id": "f1_56",
+    "palavra": "Write",
+    "pronuncia": "ráit (W mudo, E mudo)",
+    "traducao": "Escrever",
+    "frase_exemplo": "Write your name here.",
+    "traducao_frase": "Escreva seu nome aqui.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f1_57",
+    "palavra": "Would",
+    "pronuncia": "uúd (L mudo)",
+    "traducao": "Gostaria (terminação -ia nos verbos)",
+    "frase_exemplo": "I would like coffee.",
+    "traducao_frase": "Eu gostaria de café.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f1_58",
+    "palavra": "Like",
+    "pronuncia": "láik (E mudo)",
+    "traducao": "Gostar; como (comparação)",
+    "frase_exemplo": "I like English. / He is like his father.",
+    "traducao_frase": "Eu gosto de inglês. / Ele é como o pai dele.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f1_59",
+    "palavra": "So",
+    "pronuncia": "sôu",
+    "traducao": "Então, assim, tão",
+    "frase_exemplo": "I am so happy.",
+    "traducao_frase": "Eu estou tão feliz.",
+    "categoria": "Partícula"
+  },
+  {
+    "id": "f1_60",
+    "palavra": "These",
+    "pronuncia": "díz (com TH vibrado, E final mudo)",
+    "traducao": "Estes, estas",
+    "frase_exemplo": "These are my keys.",
+    "traducao_frase": "Estas são as minhas chaves.",
+    "categoria": "Palavra"
+  },
+  {
+    "id": "f1_61",
+    "palavra": "Her",
+    "pronuncia": "hâr",
+    "traducao": "Dela (possessivo); a ela (objeto)",
+    "frase_exemplo": "I know her mother.",
+    "traducao_frase": "Eu conheço a mãe dela.",
+    "categoria": "Palavra"
+  },
+  {
+    "id": "f1_62",
+    "palavra": "Long",
+    "pronuncia": "lóng",
+    "traducao": "Longo, comprido",
+    "frase_exemplo": "A long journey.",
+    "traducao_frase": "Uma longa jornada.",
+    "categoria": "Adjetivo"
+  },
+  {
+    "id": "f1_63",
+    "palavra": "Make",
+    "pronuncia": "mêik (E mudo)",
+    "traducao": "Fazer, fabricar, criar",
+    "frase_exemplo": "Make a cake.",
+    "traducao_frase": "Faça um bolo.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f1_64",
+    "palavra": "Thing",
+    "pronuncia": "tíng (TH soprado)",
+    "traducao": "Coisa",
+    "frase_exemplo": "It's a good thing.",
+    "traducao_frase": "É uma coisa boa.",
+    "categoria": "Substantivo"
+  },
+  {
+    "id": "f1_65",
+    "palavra": "See",
+    "pronuncia": "sí",
+    "traducao": "Ver, enxergar",
+    "frase_exemplo": "I can see you.",
+    "traducao_frase": "Eu consigo ver você.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f1_66",
+    "palavra": "Him",
+    "pronuncia": "hím",
+    "traducao": "Ele, a ele (objeto de frase)",
+    "frase_exemplo": "Give it to him.",
+    "traducao_frase": "Dê isso para ele.",
+    "categoria": "Palavra"
+  },
+  {
+    "id": "f1_67",
+    "palavra": "Two",
+    "pronuncia": "tú",
+    "traducao": "Dois, duas",
+    "frase_exemplo": "Two cups of water.",
+    "traducao_frase": "Duas xícaras de água.",
+    "categoria": "Palavra"
+  },
+  {
+    "id": "f1_68",
+    "palavra": "Has",
+    "pronuncia": "héz",
+    "traducao": "Tem (conjugação de have para He, She, It)",
+    "frase_exemplo": "She has a cat.",
+    "traducao_frase": "Ela tem um gato.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f1_69",
+    "palavra": "Look",
+    "pronuncia": "lúk",
+    "traducao": "Olhar, parecer",
+    "frase_exemplo": "Look at me.",
+    "traducao_frase": "Olhe para mim.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f1_70",
+    "palavra": "More",
+    "pronuncia": "mór (E mudo)",
+    "traducao": "Mais",
+    "frase_exemplo": "I need more time.",
+    "traducao_frase": "Eu preciso de mais tempo.",
+    "categoria": "Adjetivo"
+  },
+  {
+    "id": "f1_71",
+    "palavra": "Day",
+    "pronuncia": "dêi",
+    "traducao": "Dia",
+    "frase_exemplo": "Have a nice day!",
+    "traducao_frase": "Tenha um bom dia!",
+    "categoria": "Substantivo"
+  },
+  {
+    "id": "f1_72",
+    "palavra": "Could",
+    "pronuncia": "cúd (L mudo)",
+    "traducao": "Poderia, conseguia (passado de can)",
+    "frase_exemplo": "Could you repeat, please?",
+    "traducao_frase": "Você poderia repetir, por favor?",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f1_73",
+    "palavra": "Go",
+    "pronuncia": "gôu",
+    "traducao": "Ir",
+    "frase_exemplo": "I have to go.",
+    "traducao_frase": "Eu preciso ir.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f1_74",
+    "palavra": "Come",
+    "pronuncia": "kâm (E mudo)",
+    "traducao": "Vir, chegar",
+    "frase_exemplo": "Come home.",
+    "traducao_frase": "Venha para casa.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f1_75",
+    "palavra": "Did",
+    "pronuncia": "díd",
+    "traducao": "Fez (passado de do / auxiliar de perguntas no passado)",
+    "frase_exemplo": "Did you study?",
+    "traducao_frase": "Você estudou?",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f1_76",
+    "palavra": "Number",
+    "pronuncia": "nâmbâr",
+    "traducao": "Número",
+    "frase_exemplo": "What is your number?",
+    "traducao_frase": "Qual é o seu número?",
+    "categoria": "Substantivo"
+  },
+  {
+    "id": "f1_77",
+    "palavra": "Sound",
+    "pronuncia": "sáund",
+    "traducao": "Som, soar",
+    "frase_exemplo": "This sounds good.",
+    "traducao_frase": "Isso soa bem.",
+    "categoria": "Substantivo"
+  },
+  {
+    "id": "f1_78",
+    "palavra": "No",
+    "pronuncia": "nôu",
+    "traducao": "Não, nenhum",
+    "frase_exemplo": "No problem.",
+    "traducao_frase": "Sem problemas (ou nenhum problema).",
+    "categoria": "Partícula"
+  },
+  {
+    "id": "f1_79",
+    "palavra": "Most",
+    "pronuncia": "môust",
+    "traducao": "A maioria, o mais",
+    "frase_exemplo": "Most people like music.",
+    "traducao_frase": "A maioria das pessoas gosta de música.",
+    "categoria": "Adjetivo"
+  },
+  {
+    "id": "f1_80",
+    "palavra": "People",
+    "pronuncia": "pípól",
+    "traducao": "Pessoas, povo",
+    "frase_exemplo": "People are friendly.",
+    "traducao_frase": "As pessoas são amigáveis.",
+    "categoria": "Substantivo"
+  },
+  {
+    "id": "f1_81",
+    "palavra": "My",
+    "pronuncia": "mái",
+    "traducao": "Meu, minha, meus, minhas",
+    "frase_exemplo": "This is my laptop.",
+    "traducao_frase": "Este é o meu notebook.",
+    "categoria": "Palavra"
+  },
+  {
+    "id": "f1_82",
+    "palavra": "Over",
+    "pronuncia": "ôuvâr",
+    "traducao": "Sobre, acima, terminado, fim",
+    "frase_exemplo": "The game is over.",
+    "traducao_frase": "O jogo terminou.",
+    "categoria": "Partícula"
+  },
+  {
+    "id": "f1_83",
+    "palavra": "Know",
+    "pronuncia": "nôu (K mudo)",
+    "traducao": "Saber, conhecer",
+    "frase_exemplo": "I know the answer.",
+    "traducao_frase": "Eu sei a resposta.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f1_84",
+    "palavra": "Water",
+    "pronuncia": "uótâr (no inglês americano vira 'uóder')",
+    "traducao": "Água",
+    "frase_exemplo": "Drink water.",
+    "traducao_frase": "Beba água.",
+    "categoria": "Substantivo"
+  },
+  {
+    "id": "f1_85",
+    "palavra": "Than",
+    "pronuncia": "dén",
+    "traducao": "Do que (comparativo)",
+    "frase_exemplo": "I am taller than you.",
+    "traducao_frase": "Eu sou mais alto que você.",
+    "categoria": "Partícula"
+  },
+  {
+    "id": "f1_86",
+    "palavra": "Call",
+    "pronuncia": "kól",
+    "traducao": "Chamar, ligar, telefonar",
+    "frase_exemplo": "Call me later.",
+    "traducao_frase": "Ligue-me mais tarde.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f1_87",
+    "palavra": "First",
+    "pronuncia": "fârst",
+    "traducao": "Primeiro, primeira",
+    "frase_exemplo": "My first project.",
+    "traducao_frase": "Meu primeiro projeto.",
+    "categoria": "Adjetivo"
+  },
+  {
+    "id": "f1_88",
+    "palavra": "Who",
+    "pronuncia": "rú",
+    "traducao": "Quem",
+    "frase_exemplo": "Who is there?",
+    "traducao_frase": "Quem está aí?",
+    "categoria": "Palavra"
+  },
+  {
+    "id": "f1_89",
+    "palavra": "May",
+    "pronuncia": "mêi",
+    "traducao": "Poder, ter permissão (verbo modal); Maio",
+    "frase_exemplo": "May I come in?",
+    "traducao_frase": "Posso entrar?",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f1_90",
+    "palavra": "Down",
+    "pronuncia": "dáun",
+    "traducao": "Para baixo, baixo",
+    "frase_exemplo": "Sit down.",
+    "traducao_frase": "Sente-se.",
+    "categoria": "Partícula"
+  },
+  {
+    "id": "f1_91",
+    "palavra": "Side",
+    "pronuncia": "sáid (E mudo)",
+    "traducao": "Lado",
+    "frase_exemplo": "Choose a side.",
+    "traducao_frase": "Escolha um lado.",
+    "categoria": "Substantivo"
+  },
+  {
+    "id": "f1_92",
+    "palavra": "Been",
+    "pronuncia": "bín",
+    "traducao": "Sido, estado (particípio de be)",
+    "frase_exemplo": "I have been busy.",
+    "traducao_frase": "Eu tenho estado ocupado.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f1_93",
+    "palavra": "Now",
+    "pronuncia": "náu",
+    "traducao": "Agora",
+    "frase_exemplo": "Do it now.",
+    "traducao_frase": "Faça isso agora.",
+    "categoria": "Partícula"
+  },
+  {
+    "id": "f1_94",
+    "palavra": "Find",
+    "pronuncia": "fáind",
+    "traducao": "Achar, encontrar",
+    "frase_exemplo": "I can't find my keys.",
+    "traducao_frase": "Não consigo encontrar minhas chaves.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f1_95",
+    "palavra": "Work",
+    "pronuncia": "uârk",
+    "traducao": "Trabalho, trabalhar",
+    "frase_exemplo": "I love my work.",
+    "traducao_frase": "Eu amo meu trabalho.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f1_96",
+    "palavra": "New",
+    "pronuncia": "niú",
+    "traducao": "Novo, nova",
+    "frase_exemplo": "A new beginning.",
+    "traducao_frase": "Um novo começo.",
+    "categoria": "Adjetivo"
+  },
+  {
+    "id": "f1_97",
+    "palavra": "Take",
+    "pronuncia": "têik (E mudo)",
+    "traducao": "Pegar, levar, tomar",
+    "frase_exemplo": "Take a photo.",
+    "traducao_frase": "Tire uma foto.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f1_98",
+    "palavra": "Get",
+    "pronuncia": "guét",
+    "traducao": "Conseguir, obter, pegar, ficar (multiuso)",
+    "frase_exemplo": "Get some rest.",
+    "traducao_frase": "Descanse um pouco.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f1_99",
+    "palavra": "Place",
+    "pronuncia": "plêis (E mudo)",
+    "traducao": "Lugar, colocar",
+    "frase_exemplo": "A quiet place.",
+    "traducao_frase": "Um lugar calmo.",
+    "categoria": "Substantivo"
+  },
+  {
+    "id": "f1_100",
+    "palavra": "Only",
+    "pronuncia": "ôunli",
+    "traducao": "Apenas, somente, único",
+    "frase_exemplo": "Only you.",
+    "traducao_frase": "Apenas você.",
+    "categoria": "Partícula"
+  },
+  {
+    "id": "f1_rule_1",
+    "palavra": "Regra do 'TH' Soprado (unvoiced)",
+    "pronuncia": "Língua entre os dentes, soprando o ar sem vibrar as cordas vocais",
+    "traducao": "Som característico das palavras: think, thing, thank, with.",
+    "frase_exemplo": "Think / Thing / Thank",
+    "traducao_frase": "Pensar / Coisa / Agradecer",
+    "categoria": "Regra de Pronúncia"
+  },
+  {
+    "id": "f1_rule_2",
+    "palavra": "Regra do 'TH' Vibrado (voiced)",
+    "pronuncia": "Língua entre os dentes, vibrando as cordas vocais (parece um 'D' ou 'Z')",
+    "traducao": "Som característico das palavras: the, this, that, they.",
+    "frase_exemplo": "This / That / They",
+    "traducao_frase": "Este / Aquele / Eles",
+    "categoria": "Regra de Pronúncia"
+  },
+  {
+    "id": "f1_rule_3",
+    "palavra": "Regra do 'E' Final Mudo",
+    "pronuncia": "O 'E' no final da maioria das palavras em inglês não é pronunciado, mas estica a vogal anterior",
+    "traducao": "Palavras como make, life, home, use terminam no som da consoante anterior.",
+    "frase_exemplo": "Make [mêik], Home [rôum]",
+    "traducao_frase": "Fazer, Lar (Repare que você não diz 'meiqui' ou 'romi')",
+    "categoria": "Regra de Pronúncia"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "InglesRapido",
+  "description": "Web App de Flashcards (Força Bruta) para estudo intensivo de inglês com pronúncia fonética adaptada para brasileiros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

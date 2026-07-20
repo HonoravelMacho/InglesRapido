@@ -1,0 +1,200 @@
+[
+  {
+    "id": "f2_1",
+    "palavra": "Although",
+    "pronuncia": "ól-dôu (com TH vibrado)",
+    "traducao": "Embora, apesar de",
+    "frase_exemplo": "Although it was raining, they went out.",
+    "traducao_frase": "Embora estivesse chovendo, eles saíram.",
+    "categoria": "Partícula"
+  },
+  {
+    "id": "f2_2",
+    "palavra": "Acknowledge",
+    "pronuncia": "ék-nó-lêdj (com K mudo)",
+    "traducao": "Reconhecer, admitir, confirmar",
+    "frase_exemplo": "I acknowledge my mistakes.",
+    "traducao_frase": "Eu reconheço meus erros.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f2_3",
+    "palavra": "Behavior",
+    "pronuncia": "bi-rêi-vi-ôr",
+    "traducao": "Comportamento, conduta",
+    "frase_exemplo": "His behavior was excellent.",
+    "traducao_frase": "O comportamento dele foi excelente.",
+    "categoria": "Substantivo"
+  },
+  {
+    "id": "f2_4",
+    "palavra": "Challenge",
+    "pronuncia": "tché-lêndj",
+    "traducao": "Desafio, desafiar",
+    "frase_exemplo": "Life is full of challenges.",
+    "traducao_frase": "A vida é cheia de desafios.",
+    "categoria": "Substantivo"
+  },
+  {
+    "id": "f2_5",
+    "palavra": "Develop",
+    "pronuncia": "di-vé-lôp",
+    "traducao": "Desenvolver, progredir",
+    "frase_exemplo": "We need to develop our skills.",
+    "traducao_frase": "Nós precisamos desenvolver nossas habilidades.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f2_6",
+    "palavra": "Environment",
+    "pronuncia": "en-vái-rôn-ment",
+    "traducao": "Meio ambiente, ambiente",
+    "frase_exemplo": "Protect the environment.",
+    "traducao_frase": "Proteja o meio ambiente.",
+    "categoria": "Substantivo"
+  },
+  {
+    "id": "f2_7",
+    "palavra": "Furthermore",
+    "pronuncia": "fâr-dâr-mór",
+    "traducao": "Além disso, outrossim",
+    "frase_exemplo": "Furthermore, we must respect the guidelines.",
+    "traducao_frase": "Além disso, nós devemos respeitar as diretrizes.",
+    "categoria": "Partícula"
+  },
+  {
+    "id": "f2_8",
+    "palavra": "Gather",
+    "pronuncia": "gué-dâr (com TH vibrado)",
+    "traducao": "Reunir, coletar, juntar",
+    "frase_exemplo": "Gather your things, we are leaving.",
+    "traducao_frase": "Reúna suas coisas, nós estamos saindo.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f2_9",
+    "palavra": "Huge",
+    "pronuncia": "riú-dj",
+    "traducao": "Enorme, gigante",
+    "frase_exemplo": "There was a huge crowd at the show.",
+    "traducao_frase": "Havia uma multidão enorme no show.",
+    "categoria": "Adjetivo"
+  },
+  {
+    "id": "f2_10",
+    "palavra": "Improve",
+    "pronuncia": "im-prúv (E mudo)",
+    "traducao": "Melhorar, aprimorar",
+    "frase_exemplo": "I want to improve my speaking.",
+    "traducao_frase": "Eu quero melhorar a minha fala.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f2_11",
+    "palavra": "Journey",
+    "pronuncia": "djâr-ni",
+    "traducao": "Jornada, viagem",
+    "frase_exemplo": "Enjoy the journey, not just the destination.",
+    "traducao_frase": "Aproveite a jornada, não apenas o destino.",
+    "categoria": "Substantivo"
+  },
+  {
+    "id": "f2_12",
+    "palavra": "Knowledge",
+    "pronuncia": "nó-lêdj (K mudo)",
+    "traducao": "Conhecimento, saber",
+    "frase_exemplo": "Knowledge is power.",
+    "traducao_frase": "Conhecimento é poder.",
+    "categoria": "Substantivo"
+  },
+  {
+    "id": "f2_13",
+    "palavra": "Manage",
+    "pronuncia": "mé-nidj (E mudo)",
+    "traducao": "Gerenciar, administrar, conseguir (dar conta)",
+    "frase_exemplo": "I can manage this project.",
+    "traducao_frase": "Eu consigo gerenciar este projeto.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f2_14",
+    "palavra": "Opportunity",
+    "pronuncia": "ó-pôr-tú-ni-ti",
+    "traducao": "Oportunidade",
+    "frase_exemplo": "Grab the opportunity.",
+    "traducao_frase": "Agarre a oportunidade.",
+    "categoria": "Substantivo"
+  },
+  {
+    "id": "f2_15",
+    "palavra": "Purpose",
+    "pronuncia": "pâr-pôs (E mudo)",
+    "traducao": "Propósito, objetivo",
+    "frase_exemplo": "What is your purpose in life?",
+    "traducao_frase": "Qual é o seu propósito na vida?",
+    "categoria": "Substantivo"
+  },
+  {
+    "id": "f2_16",
+    "palavra": "Quite",
+    "pronuncia": "quáit (E mudo)",
+    "traducao": "Bastante, completamente",
+    "frase_exemplo": "The weather is quite nice today.",
+    "traducao_frase": "O tempo está bastante agradável hoje.",
+    "categoria": "Adjetivo"
+  },
+  {
+    "id": "f2_17",
+    "palavra": "Receive",
+    "pronuncia": "ri-sív (E mudo)",
+    "traducao": "Receber",
+    "frase_exemplo": "I received an email from him.",
+    "traducao_frase": "Eu recebi um e-mail dele.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f2_18",
+    "palavra": "Succeed",
+    "pronuncia": "sâk-síd",
+    "traducao": "Ter sucesso, conseguir realizar",
+    "frase_exemplo": "If you work hard, you will succeed.",
+    "traducao_frase": "Se você trabalhar duro, terá sucesso.",
+    "categoria": "Verbo"
+  },
+  {
+    "id": "f2_19",
+    "palavra": "Though",
+    "pronuncia": "dôu (com TH vibrado)",
+    "traducao": "Apesar de, entretanto (no final de frases)",
+    "frase_exemplo": "It was hard, I made it though.",
+    "traducao_frase": "Foi difícil, mas consegui entretanto.",
+    "categoria": "Partícula"
+  },
+  {
+    "id": "f2_20",
+    "palavra": "Unless",
+    "pronuncia": "ân-lés",
+    "traducao": "A menos que, a não ser que",
+    "frase_exemplo": "We won't go unless it stops raining.",
+    "traducao_frase": "Nós não iremos a menos que pare de chover.",
+    "categoria": "Partícula"
+  },
+  {
+    "id": "f2_rule_1",
+    "palavra": "O 'R' Retroflexo Caipira",
+    "pronuncia": "Enrole a língua no céu da boca para falar o 'R'",
+    "traducao": "Diferente do português, o 'R' em inglês não é raspado na garganta (como em carro), ele é pronunciado puxando a língua para trás.",
+    "frase_exemplo": "Red, Water, Car",
+    "traducao_frase": "Vermelho, Água, Carro (Repare no som caipira)",
+    "categoria": "Regra de Pronúncia Avançada"
+  },
+  {
+    "id": "f2_rule_2",
+    "palavra": "O 'O' Aberto vs. 'O' Fechado",
+    "pronuncia": "Atenção às vogais abertas que parecem 'A'",
+    "traducao": "Muitas vezes a letra 'O' tem som de 'Á' aberto em inglês americano.",
+    "frase_exemplo": "Hot [rót], Job [djáb]",
+    "traducao_frase": "Quente, Emprego",
+    "categoria": "Regra de Pronúncia Avançada"
+  }
+]
